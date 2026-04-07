@@ -1,0 +1,8 @@
+Le matriçage : c'est le fait d'installer une image (OS) avec des applications préinstaller sur les postes.
+
+ODIN : C'est une application WEB développer par ca-gip qui permet de faire le matriçage.
+
+Pour lancer le matriçage on doit choisir le bon master ensuite mettre le hostname + adresse mac ou GUUID qui nous permet de faire l'import pxe.
+Après cela, l'application ODIN fait le reste en faisant le clear pxe, suppression AD, suppression SCCM du poste pour s'assurer qu'il n'y ait plus d'antécédant avec ce poste avant de pouvoir lancer le nouveau matriçage et l'ajouter dans la nouvelle collection SCCM.
+
+Dashbord : pour les informations du poste
