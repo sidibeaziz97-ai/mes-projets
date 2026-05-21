@@ -1,8 +1,11 @@
-Le matriçage : c'est le fait d'installer une image (OS) avec des applications préinstaller sur les postes.
+Le masterisation: c'est le fait d'installer une image (OS), des logciels, les mises à jour,
+les paramètres de configuration et de sécurité sur plusieurs ordinateurs.Une fois prêt, ce poste est transformé en image système.
 
-ODIN : C'est une application WEB développer par ca-gip qui permet de faire le matriçage.
+ODIN : C'est une application WEB développer par ca-gip qui permet de faire le masterisation.
 
 Pour lancer le matriçage on doit choisir le bon master ensuite mettre le hostname + adresse mac ou GUUID qui nous permet de faire l'import pxe.
-Après cela, l'application ODIN fait le reste en faisant le clear pxe, suppression AD, suppression SCCM du poste pour s'assurer qu'il n'y ait plus d'antécédant avec ce poste avant de pouvoir lancer le nouveau matriçage et l'ajouter dans la nouvelle collection SCCM.
+Après cela, l'application ODIN fait le reste en faisant le clear pxe, suppression AD, suppression SCCM du poste pour s'assurer qu'il n'y ait plus d'antécédant avec ce poste et ensuite l'ajouter dans la nouvelle collection SCCM pour pouvoir lancer la masterisation.
 
 Dashbord : pour les informations du poste
+
+Déploiement de poste: 

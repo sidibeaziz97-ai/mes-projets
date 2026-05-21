@@ -1,0 +1,11 @@
+PB VPN Poste MOWE CACIB: Bigip - Version f5fpclientW.exe / not found 
+
+                         Bigip - Registre -DisplayName F5 / NOT found
+
+
+Le pb serait du que les postes sont dans la mauvaise collection (la collection VDI) et faudrait les ré-importer dans la bonne collection.
+
+
+Malheuresement, ils l'ont ré-importer, mais ils ont pas supprimer les comptes dans l'AD en même temps qaund ils faisaient l'import sccm.
+
+Du coup la creation de l'objet des postes dans l'AD va pas se mettre à jour.

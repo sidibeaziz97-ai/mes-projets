@@ -1,0 +1,20 @@
+vérifier le lecteur P
+
+Applications à installer manuellement/ Chrome et note pad + et citrix 
+
+Fiche recette : elle permet de voir l'info générale du poste : par exemple: Quand est ce que la machine à été créé dans l'AD, si tous les éléments de sécurité pour le poste sont bien à jour (BitLocker), si tous les applications sont bien remontés,si le BIOs qui est remonté est bien à jour et que les certificats 
+
+Fiche d'hybridation:
+
+Debest : 
+
+ancien :GIP 0416786
+NOUVEAU : CIB 2587946
+
+Clé : 37383916
+
+mouvis 
+
+click share
+
+3 ZBOOK ET 24 ET PLUS de 16 POUCES 
