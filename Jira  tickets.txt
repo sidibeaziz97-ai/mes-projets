@@ -1,17 +1,18 @@
 Jira / tickets
 UCS / AD
 GESTION IPM 
-HCL NOTES / OUTLOOK
+HCL NOTES / OUTLOOK /officefr
 Avaya télophonie
 faire un cahier de charge pour mes taches.
 
 qu'estce que les gens ont besoin?
 Docker 10
-ESXI
+ESXI /vmware vsphere
 IT TOOLS/ HANDY TOOLS FOR DEVELOPERS
 wifi man : pour la qualité du wifi
+Prod ptn/Backoffice
 
-Bonjour, 
+Bonjour,
 
 Préparation Serveur FOG
 Migration poste linux entrepôt en version plus récente
