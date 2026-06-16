@@ -12,6 +12,7 @@ IT TOOLS/ HANDY TOOLS FOR DEVELOPERS
 wifi man : pour la qualité du wifi
 Prod ptn/Backoffice
 
+Définir les capacités des hardwares qu'on a besoin (cpu, ram...)
 Bonjour,
 
 Préparation Serveur FOG
