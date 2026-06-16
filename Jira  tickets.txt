@@ -11,7 +11,7 @@ ESXI /vmware vsphere
 IT TOOLS/ HANDY TOOLS FOR DEVELOPERS
 wifi man : pour la qualité du wifi
 Prod ptn/Backoffice
-
+Créer une image Linux de reference (POUR UNE LONGUE DUREE, leger et securiser)
 Définir les capacités des hardwares qu'on a besoin (cpu, ram...)
 Bonjour,
 
